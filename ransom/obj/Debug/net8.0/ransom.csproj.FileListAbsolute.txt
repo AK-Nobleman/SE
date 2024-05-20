@@ -1,0 +1,17 @@
+C:\Users\123\ransom\bin\Debug\net8.0\ransom.exe
+C:\Users\123\ransom\bin\Debug\net8.0\ransom.deps.json
+C:\Users\123\ransom\bin\Debug\net8.0\ransom.runtimeconfig.json
+C:\Users\123\ransom\bin\Debug\net8.0\ransom.dll
+C:\Users\123\ransom\bin\Debug\net8.0\ransom.pdb
+C:\Users\123\ransom\obj\Debug\net8.0\ransom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\ransom\obj\Debug\net8.0\ransom.AssemblyInfoInputs.cache
+C:\Users\123\ransom\obj\Debug\net8.0\ransom.AssemblyInfo.cs
+C:\Users\123\ransom\obj\Debug\net8.0\ransom.csproj.CoreCompileInputs.cache
+C:\Users\123\ransom\obj\Debug\net8.0\ransom.dll
+C:\Users\123\ransom\obj\Debug\net8.0\refint\ransom.dll
+C:\Users\123\ransom\obj\Debug\net8.0\ransom.pdb
+C:\Users\123\ransom\obj\Debug\net8.0\ransom.genruntimeconfig.cache
+C:\Users\123\ransom\obj\Debug\net8.0\ref\ransom.dll
+C:\Users\123\ransom\bin\Debug\net8.0\SharpAESCrypt.dll
+C:\Users\123\ransom\obj\Debug\net8.0\ransom.csproj.AssemblyReference.cache
+C:\Users\123\ransom\obj\Debug\net8.0\ransom.csproj.Up2Date
