@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ransom")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63fd380504f34c1a5ef35f5b49a22c11d181c278")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78b4c6b21b50ca4f8f5ae3c6787c7a9af0033398")]
 [assembly: System.Reflection.AssemblyProductAttribute("ransom")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ransom")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
