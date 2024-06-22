@@ -1,0 +1,5 @@
+py3Dmol==2.0.1.post1
+python-Levenshtein==0.20.9
+matplotlib==3.5.3
+numpy==1.21.5
+biopython==1.78
